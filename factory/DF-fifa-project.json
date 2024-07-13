@@ -1,0 +1,9 @@
+{
+	"name": "DF-fifa-project",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "76bea8bd-0953-4749-b71d-1fe1c1f0c7b7",
+		"tenantId": "063d9bb9-53da-4262-8a18-8e841f996d98"
+	}
+}
